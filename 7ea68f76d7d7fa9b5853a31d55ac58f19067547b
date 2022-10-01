@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "384d0040_58f1e262",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2022-10-01T12:20:26Z",
+      "side": 1,
+      "message": "Required for successfully building OSS audio HAL on miatoll.",
+      "revId": "7ea68f76d7d7fa9b5853a31d55ac58f19067547b",
+      "serverId": "82c648e1-0f2a-489e-ab9c-83444301176e"
+    }
+  ]
+}
